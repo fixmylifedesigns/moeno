@@ -13,6 +13,14 @@
       "title": "english chapter 20",
       "content": "fiytfugggygyguygiugiugigy",
       "photo": "images/1727288462587-preview.png"
+    },
+    {
+      "id": 3,
+      "date": "2024-09-25T21:12:11.017Z",
+      "title": "audio test",
+      "content": "all right so now we're testing this out I'm going to make a couple pauses to see if it continues to add to the state it looks like it's working pretty good all right cool all right cool",
+      "photo": null,
+      "audio": "audio/1727298729082-audio.mp3"
     }
   ]
 }
