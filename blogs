@@ -1,3 +1,11 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "date": "2024-09-25T18:17:49.941Z",
+      "title": "i learn hello",
+      "content": "ytvfuygu6fuyghuyjgytifiyuguy6tfgyuhbgu",
+      "photo": null
+    }
+  ]
 }
