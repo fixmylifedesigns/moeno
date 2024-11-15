@@ -1,14 +1,3 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "date": "2024-11-15T03:42:29.824Z",
-      "title": "Today ",
-      "textToSpeech": "",
-      "notes": "Don't judge a book by its cover phrase",
-      "photo": null,
-      "audio": "audio/1731642148299-audio.mp3",
-      "practicePhrase": 4
-    }
-  ]
+  "posts": []
 }
